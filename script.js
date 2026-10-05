@@ -1,4 +1,4 @@
-const API_KEY = "ce8f20cc";
+const API_KEY = "YOUR API KEY";
 
 const movieInput = document.querySelector("#movieInput");
 const type = document.querySelector("#type");
